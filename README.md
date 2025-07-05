@@ -77,9 +77,9 @@ kaggle
 sentiment_analysis_airlines/
 ├── sentiment_analysis_airlines.ipynb  # Main analysis notebook
 ├── requirements.txt                   # Python dependencies
-├── README.md                         # Project documentation
-├── Tweets.csv                        # Dataset (downloaded from Kaggle)
-└── database.sqlite                   # SQLite database
+├── README.md                          # Project documentation
+├── Tweets.csv                         # Dataset (downloaded from Kaggle)
+└── database.sqlite                    # SQLite database
 ```
 
 ## Key Insights

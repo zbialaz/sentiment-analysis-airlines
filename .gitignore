@@ -39,7 +39,6 @@ venv.bak/
 kaggle.json
 
 # Large data files
-*.csv
 *.sqlite
 *.db
 

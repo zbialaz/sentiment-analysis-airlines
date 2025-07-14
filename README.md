@@ -1,5 +1,8 @@
 # Airline Sentiment Analysis
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+
 ## Overview
 This project performs sentiment analysis on airline customer tweets to classify them into positive, negative, or neutral sentiments. The analysis includes comprehensive data preprocessing, class balancing techniques, and comparison of multiple machine learning models.
 
